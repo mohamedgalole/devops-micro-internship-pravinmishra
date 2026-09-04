@@ -14,11 +14,13 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Mohamed Galole |
+| **LinkedIn** | [mohamed-galole](https://www.linkedin.com/in/mohamedgalole/) |
+| **Location** | Kenya |
+| **Background** | Cloud, DevOps & Cybersecurity |
+| **Goal** | To become a skilled Cloud & DevOps Engineer with strong Cybersecurity capabilities, specializing in cloud infrastructure, automation, CI/CD, containerization, and secure cloud environments.
+
+I’m continuously building hands-on projects and strengthening my skills with technologies such as AWS, Linux, Docker, Kubernetes, Terraform, GitHub Actions and Cybersecurity tools.|
 
 ---
 
