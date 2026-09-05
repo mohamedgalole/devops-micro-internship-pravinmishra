@@ -55,7 +55,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Packet swithing break data being sent over the internet into packets because the data is huge.
+Packet switching break data being sent over the internet into packets because the data is huge.
 IP Address, every device connected and communicating over the internet is assigned an IP address which identifies it and where the data should go.
 TCP/IP, is a commonly protocol used for devices sending and recieving data over the internet.
 HTTP/HTTPS is acommon protocol used by web browsers communicating over the internet where HTTP is less secure while HTTPS uses TLS and make it secure and not easy to intercept it's data because it's encrypted.
@@ -179,8 +179,8 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](week-00-internet-and-networking/screenshots/VS-code-PS-terminal.png)
-![VS Code Setup Screenshot](week-00-internet-and-networking/screenshots/Bash-terminal.png)
+![VS Code Setup Screenshot](screenshots/VS-code-PS-terminal.png)
+![VS Code Setup Screenshot](screenshots/Bash-terminal.png)
 
 
 ---
