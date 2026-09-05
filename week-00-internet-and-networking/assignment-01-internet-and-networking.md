@@ -179,8 +179,8 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](D:\DMI\devops-micro-internship-pravinmishra\week-00-internet-and-networking\screenshots\VS-code-PS-terminal.png)
-![VS Code Setup Screenshot](d:\DMI\devops-micro-internship-pravinmishra\week-00-internet-and-networking\screenshots\Bash-terminal.png)
+![VS Code Setup Screenshot](week-00-internet-and-networking/screenshots/VS-code-PS-terminal.png)
+![VS Code Setup Screenshot](week-00-internet-and-networking/screenshots/Bash-terminal.png)
 
 
 ---
