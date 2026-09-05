@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](d:\DMI\devops-micro-internship-pravinmishra\week-00-internet-and-networking\screenshots\chatgpt-response.png)
+![Task 1 Screenshot](screenshots\chatgpt-response.png)
 
 ---
 
@@ -90,8 +90,8 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](D:\DMI\devops-micro-internship-pravinmishra\week-00-internet-and-networking\screenshots\Frontend.png)
-![Application Architecture Diagram]("D:\DMI\devops-micro-internship-pravinmishra\week-00-internet-and-networking\screenshots\Backend.png")
+![Application Architecture Diagram](screenshots/Frontend.png)
+![Application Architecture Diagram](screenshots/Backend.png)
 
 
 
