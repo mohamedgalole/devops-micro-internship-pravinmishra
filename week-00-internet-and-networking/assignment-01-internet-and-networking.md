@@ -25,16 +25,13 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
-
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
+![Task 1 Screenshot](chatgpt-response.png)
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+ChatGPT is very important when learning new skills you are not awaare of and it explain concept precisely given a clear prompt.
 
 ---
 
@@ -55,11 +52,13 @@ Write a short explanation (**100–150 words**) that includes:
 * TCP/IP
 * HTTP/HTTPS
 
-💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
 
-Add your answer here...
+Packet swithing break data being sent over the internet into packets because the data is huge.
+IP Address, every device connected and communicating over the internet is assigned an IP address which identifies it and where the data should go.
+TCP/IP, is a commonly protocol used for devices sending and recieving data over the internet.
+HTTP/HTTPS is acommon protocol used by web browsers communicating over the internet where HTTP is less secure while HTTPS uses TLS and make it secure and not easy to intercept it's data because it's encrypted.
 
 ---
 
@@ -91,10 +90,10 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](Frontend.png)
+![Application Architecture Diagram](Backend.png)
 
 
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -102,18 +101,20 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+HTML
+ANGULAR
+CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+DJANGO
+NODE.JS
+SPRINGBOOT
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+MYSQL
+PostgreSQL
 
 ---
 
@@ -142,7 +143,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+Domain Name System is like the Internet phonebook. It translates domains in human readable form. The epicreads.com domain should use the A record which will help to map the domain to IPv4 address and people trying to access the domain will be directed to the correct server.
 
 ---
 
@@ -178,10 +179,9 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](VS-code-PS-terminal.png)
+![VS Code Setup Screenshot](Bash-terminal.png)
 
-
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -218,16 +218,26 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://lnkd.in/p/dKqFirFE
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
+My DevOps Learning Journey 
+Another step forward in my DevOps learning journey! This phase focused on understanding the foundations that connect applications, servers, and users.
+Internet & Networking – Learned how protocols, IP addressing, routing, and packet switching enable communication across networks.
 
-Add your post content here...
+DNS – Explored how domain names are translated into IP addresses and why DNS is essential for making applications accessible and reliable.
+
+Application Architecture – Reviewed two-tier and three-tier architectures and how understanding application structure helps with deployment, scalability, and reliability.
+VS Code & Terminals – Set up VS Code for DevOps workflows and worked with both PowerShell and Bash, building familiarity with essential command-line environments.
+AI Tools – Explored how tools like ChatGPT can support learning, troubleshooting, documentation, and productivity.
+Every concept is another building block toward becoming a stronger DevOps Engineer. 
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/de3Gi_UP Start your DevOps journey: https://lnkd.in/db6CTVeD
+#DevOps #DevOpsJourney #Networking #DNS #CloudComputing #Linux #PowerShell #Bash #VSCode #LearningInPublic #TechJourney
 
 ---
 
@@ -235,19 +245,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Internet and Networking
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Two-tier and Three-tier Architecture diagrams. Dealing with Draw.io
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will familiarize myself with drawing tools
 
 ---
 
