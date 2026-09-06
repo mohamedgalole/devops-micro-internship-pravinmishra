@@ -57,8 +57,6 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ## My DevOps Stack
 
-*Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
-
 *Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
 
 **Preview — what your full stack looks like:**
@@ -67,7 +65,6 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-**Your stack (uncomment each badge as you earn it):**
 
  Week 00 → Internet & Networking Basics 
 [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
@@ -111,7 +108,6 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
 
 ---
 
