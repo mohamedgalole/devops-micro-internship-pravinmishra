@@ -32,8 +32,7 @@ You will reuse this in later weeks. So do it properly once.
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
-
-Add your answer here...
+I believe that having many certifications or university degree does not make someone successful in tech, but real skills and projects, problem solving skills, consistency and ability to learn are valuable. We make mistakes along the way and learn from them.
 
 ---
 
@@ -55,11 +54,13 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Certifications can prove that I have learned something, but they do not prove that I can perform the job.
 
 ### Evidence from my life
 
-Add your answer here...
+I studied for and earned cloud certifications, including AWS Certified Cloud Practitioner and AWS Solutions Architect – Associate.
+When I started searching for jobs, I realized that having certifications alone was not enough to overcome the lack of practical experience.
+That experience showed me that knowledge needs to be supported by hands-on skills and the ability to demonstrate what I can actually do.
 
 ---
 
@@ -67,11 +68,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+The job market has taught me that continuous learning is necessary because the skills that make me qualified today may not be enough for the opportunities I want tomorrow.
 
 ### Evidence from my life
 
-Add your answer here...
+After earning cloud certifications, I continued searching for opportunities and saw the limitations of having cloud knowledge without enough practical experience.
+Instead of stopping there, I decided to expand my skill set by learning DevOps.
+I am now deliberately adding DevOps skills to my cloud background because I want to become more capable rather than simply collecting another certificate.
 
 ---
 
@@ -79,11 +82,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Hands-on learning creates a deeper understanding than simply studying for an exam.
 
 ### Evidence from my life
 
-Add your answer here...
+My AWS certification journey taught me a lot about cloud concepts, but I also realized that understanding concepts is different from being able to apply them.
+That realization is one of the reasons I am now pursuing DevOps through practical learning and projects.
+My goal has shifted from simply asking, “What certification can I get next?” to asking, “What can I actually build, automate, troubleshoot, and demonstrate?”
 
 ---
 
@@ -135,15 +140,58 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+My 2.0 Version: From Learning Cloud to Building at Scale
+
+By 2030, Mohamed Galole had become the kind of Cloud and DevOps engineer he had spent years working toward.
+
+Three years earlier, he was still building his foundation in cloud computing, collecting certifications, creating AWS projects, and searching for opportunities that would give him the practical experience he needed. By 2030, that journey had taken a very different shape.
+
+Mohamed had earned additional professional certifications in cloud and DevOps and had built a portfolio that went far beyond certificates. His GitHub had become a record of years of practical work, containing infrastructure projects, automation scripts, CI/CD pipelines, monitoring solutions, and cloud architectures that demonstrated what he could actually build.
+
+His early AWS projects had provided the foundation. He had already built and deployed serverless applications using Lambda, API Gateway, DynamoDB, and Amplify, while another project used EC2, SQS, SNS, and S3 to create a decoupled architecture. He had also implemented IAM least-privilege policies, CloudWatch monitoring, and GuardDuty security controls.
+
+But Mohamed’s biggest transformation came when he moved from learning individual AWS services to understanding how complete systems were designed, deployed, secured, monitored, and maintained.
+
+He had built CI/CD pipelines that automated application deployments. He had worked with Infrastructure as Code and containerized applications. He had strengthened his Linux, networking, scripting, Git, and cloud-security skills and used them together rather than treating them as separate technologies.
+
+Professionally, Mohamed had moved into a Cloud/DevOps Engineer role, where he contributed to real production environments. He had helped design reliable cloud infrastructure, automated repetitive operational tasks, improved deployment processes, and contributed to monitoring and security improvements.
+
+He had also grown beyond being an individual contributor. After gaining experience, he had led smaller technical initiatives, mentored junior developers and aspiring cloud engineers, and contributed to team decisions around cloud architecture, automation, security, and cost optimization.
+
+His growth was also visible outside his job.
+
+Mohamed had published technical articles explaining what he learned from building cloud and DevOps projects. His GitHub repositories had become more structured and documented, making it possible for other engineers to understand not only what he built, but why he built it and what problems it solved.
+
+He had also contributed to the technology community by sharing practical lessons with other people beginning their cloud careers. Instead of presenting himself as someone who had everything figured out, he openly documented the journey from certification to practical engineering.
+
+Write on Medium
+By then, Mohamed had also relocated for a stronger professional opportunity and had worked with engineers from different backgrounds and environments. The experience had expanded both his technical perspective and his professional network.
+
+The most significant change, however, was not his job title, certifications, or GitHub profile.
+
+It was his mindset.
+
+The Mohamed of 2026 had asked, “What certification should I get next?”
+
+The Mohamed of 2030 asked, “What problem needs to be solved, and how can I build the best solution?”
+
+He had learned that certifications were valuable foundations, but real growth came from building, breaking, troubleshooting, automating, documenting, and continuously improving systems.
+
+His 2.0 version was not created by one big opportunity.
+
+It was built through years of small improvements, practical projects, uncomfortable lessons, continuous learning, and the decision to keep adding another skill whenever he discovered a gap.
+
+By 2030, he had not simply become someone with more certifications.
+
+He had become an engineer with proof.
 
 ### Public Link
 
-Paste your link here:
+(https://medium.com/@galozmoha2/my-2-0-version-from-learning-cloud-to-building-at-scale-ba27009dc49e)
 
 `Add your URL here`
 
----
+https://medium.com/@galozmoha2/my-2-0-version-from-learning-cloud-to-building-at-scale-ba27009dc49e
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
@@ -167,7 +215,7 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+No
 
 **What emotion did you feel?** (minimum 50–100 words)
 
@@ -199,16 +247,27 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+# Book List
+
+1. **Atomic Habits — James Clear**
+
+2. **Deep Work — Cal Newport**
+
+3. **The Psychology of Money — Morgan Housel**
+
+4. **How to Win Friends and Influence People — Dale Carnegie**
+
+5. **The 7 Habits of Highly Effective People — Stephen R. Covey**
+
+6. **So Good They Can't Ignore You — Cal Newport**
+
+7. **The Compound Effect — Darren Hardy**
+
+8. **Leaders Eat Last — Simon Sinek**
+
+9. **The Effective Engineer — Edmond Lau**
+
+10. **The Pragmatic Programmer — David Thomas and Andrew Hunt**
 
 ---
 
@@ -237,17 +296,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-
+Learning hours and skills practiced each week
+AWS and DevOps concepts completed
+Hands-on labs and technical exercises completed
+Projects built, shipped, and documented
+GitHub contributions and portfolio improvements
+Technical articles or LinkedIn posts published
+Job applications and professional networking activities
+Deep-work sessions completed each week
+Sleep, energy, and overall wellbeing
+Personal spending, saving, and financial progress
 ---
 
 # Assignment 7. Brain Dump + 5-Month System Plan
@@ -270,9 +328,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Yes
 
-Add your answer here...
+I wrote down the main things currently occupying my mind, including my career goals, AWS and DevOps learning, projects I need to build, personal responsibilities.
 
 ---
 
@@ -290,7 +348,13 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday: 60–90 minutes of DevOps learning and practical exercises
+Tuesday: 60–90 minutes of AWS/Cloud revision or hands-on labs
+Wednesday: 60–90 minutes of DevOps practical work
+Thursday: 60–90 minutes of project development or troubleshooting
+Friday:  Networking, and career development
+Saturday: DMI session, assignments, reflection, and focused learning
+Sunday: Weekly review, planning, GitHub documentation, and preparation for the next week
 
 ---
 
@@ -298,11 +362,14 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday-Friday - 7:00 PM to 11:30 PM
+Saturday — 9:00 AM to 12:00 PM
+
+
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Six dedicated DMI session per week, supported by shorter learning and practical sessions throughout the week.
 
 ---
 
@@ -316,7 +383,13 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone away from my workspace during deep-work sessions.
+Avoid social media during scheduled learning blocks.
+Do not switch between multiple tasks during a focus session.
+Study and work in a dedicated environment whenever possible.
+Use breaks intentionally instead of turning them into extended distractions.
+Finish the planned task before moving to something unrelated.
+Track unfinished tasks instead of carrying them mentally from day to day.
 
 ---
 
@@ -324,28 +397,30 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I already have a foundation in cloud computing, but my next level of growth depends on how consistently I turn that knowledge into practical skills. My AWS certifications gave me a strong starting point, but learning DevOps is showing me that I need to keep building, experimenting, and proving what I can do.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is sometimes trying to focus on too many things at once. I can easily think about certifications, DevOps, projects, networking, and other goals simultaneously. I realized that having many goals is not the problem; the problem is failing to give each priority enough focused time.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Fridays 7:00 PM to 8:30 PM I will have one focused career-development block.
+
+During that time, I will work on only one priority: DevOps learning, an AWS project, GitHub documentation.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://lnkd.in/p/dVMrs75G`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: [**ADD LINK HERE** ](https://lnkd.in/p/dVMrs75G) 
+- Blog / Medium : [**ADD LINK HERE** ](https://medium.com/@galozmoha2) 
 
 ---
 
