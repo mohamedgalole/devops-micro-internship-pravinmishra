@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+![Nginx Server Setup](screenshots/nginx-server-setup.png)
 
 ---
 
@@ -34,7 +34,7 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+![Portfolio Site Files](screenshots/portfolio-site-files.png)
 
 ---
 
@@ -48,7 +48,9 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+![Footer Updated](screenshots/Footer-updated.png)
+
+
 
 ---
 
@@ -62,13 +64,14 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+![Nginx Test](screenshots/nginx-test.png)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+![Portfolio Web Files Setup Deploy](screenshots/portfolio-web-files-setup-deploy.png)
+
 
 ---
 
@@ -82,13 +85,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+![Curl Confirm Portfolio Is Live](screenshots/curl-confirm-portfolio-is-live.png)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+![Portfolio Deployed by Galole](screenshots/Portfolio-deployed-by-Galole.png)
 
 ---
 
@@ -102,13 +105,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+![Systemctl Enabled](screenshots/systemctl-enabled.png)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+![HTTP Localhost OK](screenshots/http-localhost-ok.png)
 
 ---
 
@@ -120,14 +123,13 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/mohamedgalole_dmi-dmicohort3-devops-activity-7504150579754020864-2r1S?utm_source=share&utm_medium=member_desktop&rcm=ACoAADirbaIBlFc8XjO7hntAv73HmZQHdcYtWHw`
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
-
+![Linkedin post](screenshots/portlio-site-linkedin.png)
 ---
 
 # Submission Instructions
