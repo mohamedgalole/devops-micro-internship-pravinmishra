@@ -20,7 +20,7 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-![pwd Output](screenshots\git-pwd-Output.png)
+![pwd Output](screenshots/git-pwd-Output.png)
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
