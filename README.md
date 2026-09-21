@@ -134,7 +134,7 @@ Week 04 → Git & GitHub
 | 02 | Agentic AI with Claude Code | ⏳ Pending | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ⏳ ✅ Completed | https://lnkd.in/p/dJDjfHBQ | https://medium.com/@galozmoha2/from-linux-commands-to-automation-my-bash-scripting-milestone-613a84ca34db |
 | 04 | Git & GitHub | ✅ Completed | ⏳ ✅ Completed |https://www.linkedin.com/posts/mohamedgalole_devops-git-github-activity-7506237172463804416-xeym?utm_source=share&utm_medium=member_desktop&rcm=ACoAADirbaIBlFc8XjO7hntAv73HmZQHdcYtWHw | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | 🔄 In Progress | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
