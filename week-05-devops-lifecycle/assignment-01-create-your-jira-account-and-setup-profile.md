@@ -78,7 +78,7 @@ Locate the project list and open a project's Board or Backlog, and view Project 
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-![Jira opened project](screenshots/scrum-open-project.png)
+![Jira opened project](screenshots/scrum-open-project1.png)
 
 ---
 
