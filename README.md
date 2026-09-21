@@ -79,8 +79,8 @@ This is not a course. It is an internship-style program — real deployments, re
  Week 03 → Linux & Bash for DevOps 
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
 
-<!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
+Week 04 → Git & GitHub 
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) 
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -133,7 +133,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 01 | Success Mindset | ✅ Completed| ✅ Completed|https://lnkd.in/p/dVMrs75G| https://medium.com/@galozmoha2/my-2-0-version-from-learning-cloud-to-building-at-scale-ba27009dc49e|
 | 02 | Agentic AI with Claude Code | ⏳ Pending | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ⏳ ✅ Completed | https://lnkd.in/p/dJDjfHBQ | https://medium.com/@galozmoha2/from-linux-commands-to-automation-my-bash-scripting-milestone-613a84ca34db |
-| 04 | Git & GitHub | 🔄 In Progress | ⏳ Pending | — | — |
+| 04 | Git & GitHub | ✅ Completed | ⏳ ✅ Completed | [— ](https://www.linkedin.com/posts/mohamedgalole_devops-git-github-activity-7506237172463804416-xeym?utm_source=share&utm_medium=member_desktop&rcm=ACoAADirbaIBlFc8XjO7hntAv73HmZQHdcYtWHw)| — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
