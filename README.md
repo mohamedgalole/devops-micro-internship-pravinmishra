@@ -133,7 +133,7 @@ Week 04 → Git & GitHub
 | 01 | Success Mindset | ✅ Completed| ✅ Completed|https://lnkd.in/p/dVMrs75G| https://medium.com/@galozmoha2/my-2-0-version-from-learning-cloud-to-building-at-scale-ba27009dc49e|
 | 02 | Agentic AI with Claude Code | ⏳ Pending | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ⏳ ✅ Completed | https://lnkd.in/p/dJDjfHBQ | https://medium.com/@galozmoha2/from-linux-commands-to-automation-my-bash-scripting-milestone-613a84ca34db |
-| 04 | Git & GitHub | ✅ Completed | ⏳ ✅ Completed |https://lnkd.in/p/ek7qk4KX | [—](https://medium.com/@galozmoha2/git-branching-feature-workflow-a-practical-devops-learning-experience-05674b665652) |
+| 04 | Git & GitHub | ✅ Completed | ⏳ ✅ Completed |https://lnkd.in/p/ek7qk4KX |https://medium.com/@galozmoha2/git-branching-feature-workflow-a-practical-devops-learning-experience-05674b665652 |
 | 05 | DevOps Lifecycle & Agile | 🔄 In Progress | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
