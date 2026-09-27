@@ -82,8 +82,8 @@ This is not a course. It is an internship-style program — real deployments, re
 Week 04 → Git & GitHub 
 [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) 
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+Week 05 → DevOps Lifecycle & Agile 
+[![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) 
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -134,7 +134,7 @@ Week 04 → Git & GitHub
 | 02 | Agentic AI with Claude Code | ⏳ Pending | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ⏳ ✅ Completed | https://lnkd.in/p/dJDjfHBQ | https://medium.com/@galozmoha2/from-linux-commands-to-automation-my-bash-scripting-milestone-613a84ca34db |
 | 04 | Git & GitHub | ✅ Completed | ⏳ ✅ Completed |https://lnkd.in/p/ek7qk4KX |https://medium.com/@galozmoha2/git-branching-feature-workflow-a-practical-devops-learning-experience-05674b665652 |
-| 05 | DevOps Lifecycle & Agile | 🔄 In Progress | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed| ✅ Completed| — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
