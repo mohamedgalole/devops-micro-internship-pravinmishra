@@ -72,7 +72,7 @@ Launch an Ubuntu 20.04 instance in the public subnet with `epicbook-ec2-sg` atta
 
 #### Screenshot 7 — Terminal showing a successful SSH login with the `ubuntu@...` prompt
 
-![Epic Book VPC CIDR](screenshots/aws-epicbook-vpc-details.png)
+![SSH Login](screenshots/aws-ec2-ssh-login.png)
 
 ---
 
