@@ -134,7 +134,7 @@ Week 05 → DevOps Lifecycle & Agile
 | 02 | Agentic AI with Claude Code | ⏳ Pending | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ⏳ ✅ Completed | https://lnkd.in/p/dJDjfHBQ | https://medium.com/@galozmoha2/from-linux-commands-to-automation-my-bash-scripting-milestone-613a84ca34db |
 | 04 | Git & GitHub | ✅ Completed | ⏳ ✅ Completed |https://lnkd.in/p/ek7qk4KX |https://medium.com/@galozmoha2/git-branching-feature-workflow-a-practical-devops-learning-experience-05674b665652 |
-| 05 | DevOps Lifecycle & Agile | ✅ Completed| ✅ Completed| — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed| ✅ Completed| https://lnkd.in/p/erE5c6rw | — |
 | 06 | AWS Cloud | ✅ Completed | ✅ Completed | https://lnkd.in/p/exP87kgS | https://medium.com/@galozmoha2/deploying-a-three-tier-book-review-application-on-aws-my-cloud-capstone-journey-a472c99683a2 |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
