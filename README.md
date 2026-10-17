@@ -85,8 +85,8 @@ Week 04 → Git & GitHub
 Week 05 → DevOps Lifecycle & Agile 
 [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) 
 
-<!-- Week 06 → AWS Cloud -->
-<!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
+ Week 06 → AWS Cloud 
+[![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) 
 
 <!-- Week 07 → Azure Cloud -->
 <!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
@@ -135,7 +135,7 @@ Week 05 → DevOps Lifecycle & Agile
 | 03 | Linux & Bash for DevOps | ✅ Completed | ⏳ ✅ Completed | https://lnkd.in/p/dJDjfHBQ | https://medium.com/@galozmoha2/from-linux-commands-to-automation-my-bash-scripting-milestone-613a84ca34db |
 | 04 | Git & GitHub | ✅ Completed | ⏳ ✅ Completed |https://lnkd.in/p/ek7qk4KX |https://medium.com/@galozmoha2/git-branching-feature-workflow-a-practical-devops-learning-experience-05674b665652 |
 | 05 | DevOps Lifecycle & Agile | ✅ Completed| ✅ Completed| — | — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 06 | AWS Cloud | ✅ Completed | ✅ Completed | https://lnkd.in/p/exP87kgS | https://medium.com/@galozmoha2/deploying-a-three-tier-book-review-application-on-aws-my-cloud-capstone-journey-a472c99683a2 |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
