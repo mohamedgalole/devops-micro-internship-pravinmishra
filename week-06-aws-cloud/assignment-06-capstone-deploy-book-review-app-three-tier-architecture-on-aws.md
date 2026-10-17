@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-Add your diagram image or link here.
+![Architecture Diagram](screenshots/Book-Review-App-Architecture.png)
 
 ---
 
@@ -34,14 +34,14 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+Region: US East (N. Virginia) — us-east-1
 
 ---
 
 **Services:**
 
-Write your answer here.
-
+EC2, VPC, ALB, RDS, Security Groups, Elastic IP'S, subnets, Internet Gateway, NAT Gateway, Route Tables, Ubuntu Linux, Nginx, Node.js, 
+Next.js, MySQL, PM2, Git and GitHub
 ---
 
 # Task 3 — Public Entry Point
@@ -54,9 +54,9 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 #### Public ALB DNS
 
-Paste your public ALB DNS name here:
+public-alb-123031276.us-east-1.elb.amazonaws.com
 
-`Add your URL here`
+`http://public-alb-123031276.us-east-1.elb.amazonaws.com`
 
 ---
 
@@ -70,25 +70,24 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-Add your screenshot here.
-
+![Web EC2](screenshots/aws-capstone-web-ec2.png)
 ---
 
 #### App EC2
 
-Add your screenshot here.
+![App EC2](screenshots/aws-capstone-app-ec2.png)
 
 ---
 
 #### Public ALB
 
-Add your screenshot here.
+![PublicLoad Balancer](screenshots/aws-capstone-public-alb.png)
 
 ---
 
 #### Internal ALB
 
-Add your screenshot here.
+![Internal Load Balancer](screenshots/aws-capstone-internal-alb.png)
 
 ---
 
@@ -100,7 +99,7 @@ Add your screenshot here.
 
 #### App UI proof
 
-Add your screenshot here.
+![User Interface](screenshots/aws-capstone-UI-successful.png)
 
 ---
 
@@ -114,19 +113,39 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 **What worked:**
 
-Write your answer here.
+Successfully designed and deployed the Book Review App using a three-tier AWS architecture in the US East (N. Virginia) region (us-east-1). The architecture separated the presentation, application, and database tiers using a custom VPC with six subnets across two Availability Zones. The public Application Load Balancer provided the application entry point, while an internal ALB routed API traffic to the private Node.js/Express backend. The frontend used Next.js and Nginx, and Amazon RDS for MySQL provided database services with Multi-AZ and a read replica configured as part of the architecture. Security groups and route tables controlled communication between tiers, while PM2 supported application process management.
 
 ---
 
 **Issues + fixes:**
 
-Write your answer here.
+Nginx configuration error: Nginx reported an unexpected end of file because of a syntax issue. Inspected the configuration, corrected the syntax, and used nginx -t to validate it before reloading the service.
+
+Unhealthy ALB targets and 502 Bad Gateway: Investigated application availability, target group health checks, listener and target ports, security group rules, and the Nginx reverse-proxy configuration to identify connectivity issues.
+
+Database initialization failure: The backend reported Unknown database 'book_review_db'. Identified the need to verify the RDS endpoint, database name, credentials, and database initialization before starting the application.
+
+SSH access to the private App EC2: Configured SSH access through the public Web EC2 jump host and used SSH configuration to simplify connections to the private instance.
 
 ---
 
 **Tools/sources used:**
 
-Write your answer here.
+AWS Management Console: VPC, EC2, Application Load Balancers, target groups, security groups, route tables, NAT Gateway, and Amazon RDS.
+
+Ubuntu Linux terminal: Package installation, application deployment, service management, and troubleshooting.
+
+Nginx: Reverse-proxy configuration and syntax validation.
+
+Node.js, Express.js, Next.js, and PM2: Application runtime, frontend/backend deployment, and process management.
+
+MySQL client: Database connectivity and database verification.
+
+SSH: Secure access to EC2 instances.
+
+GitHub: Application source repository and capstone assignment documentation.
+
+AWS documentation and troubleshooting logs: Researching configuration options, diagnosing errors, and understanding AWS resource behavior.
 
 ---
 
@@ -142,13 +161,13 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://lnkd.in/p/exP87kgS`
 
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![Capstone Linkedin post](screenshots/aws-capstone-linkedin.png)
 
 ---
 
